@@ -1,9 +1,7 @@
-# testue4_04
+# Test Character Animation Action and Navigation Movement UE 5.2
 
-Character animation control test UE 4.26
+. main character combat skills animation action blueprints
 
-.Inputs control character combat skills mouse click test
+. npc character navi base movements
 
-.NPC Nav mesh movement basic test
-
-![image](https://user-images.githubusercontent.com/1465738/131082245-97eaf41c-2432-42e3-8a74-e1008ed50ad3.png)
+![Image](https://github.com/user-attachments/assets/6aa8232c-9745-41cc-a9b1-3179fcb4fdda)
